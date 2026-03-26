@@ -2,6 +2,8 @@
 
 This project is a simple AI-powered study assistant built using Cloudflare’s developer platform.
 
+App Link: https://cf-ai-study-buddy.draleiras.workers.dev
+
 ## What this is
 
 I built this project as a small but complete example of an AI application that can handle conversations with memory. The goal was to keep it simple while showing how different parts of the platform work together in a real application.
